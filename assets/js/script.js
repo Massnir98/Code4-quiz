@@ -5,7 +5,7 @@ var questions = [
         answer: "<script>"
     },
     {
-        title: "The External Javascript file must contain the <script> tag.",
+        title: "The External Javascript file must contain the script tag.",
         choices: ["True", "False"],
         answer: "False"
     },
